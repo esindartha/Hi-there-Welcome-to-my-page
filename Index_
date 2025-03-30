@@ -11,7 +11,8 @@
   <!-- Header Section -->
   <header>
     <h1>Hi there! Welcome to My Page</h1>
-    <h2>I’m Elvina Sindartha, a Melbourne-based digital media enthusiast and Interior Design graduate with a love for the simple things in life—like enjoying a fresh cup of coffee in one of Melbourne’s many charming cafés. Having lived in Melbourne for over a decade, I’m captivated by the city’s café culture and the endless options to explore. Whether it's indulging in the perfect matcha or discovering new spots, my love for food and design intertwines in every aspect of my life. As I pursue my Master’s in Digital Media, I strive to bring my creativity to life through my studies and personal projects.</h2>
+    <h2>I’m Elvina Sindartha, a Melbourne-based digital media enthusiast and Interior Design graduate with a love for the simple things in life—like enjoying a fresh cup of coffee in one of Melbourne’s many charming cafés.</h2>
+    <p>Having lived in Melbourne for over a decade, I’m captivated by the city’s café culture and the endless options to explore. Whether it's indulging in the perfect matcha or discovering new spots, my love for food and design intertwines in every aspect of my life. As I pursue my Master’s in Digital Media, I strive to bring my creativity to life through my studies and personal projects.</p>
   </header>
 
   <!-- Main Content -->
